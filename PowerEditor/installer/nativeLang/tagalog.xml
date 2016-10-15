@@ -8,7 +8,7 @@
 					<Item menuId="file" name = "&amp;Pila"/>
 					<Item menuId="edit" name = "&amp;Ayusin"/>
 					<Item menuId="search" name = "Mag&amp;hanap"/>
-					<Item menuId="view" name = "&amp;Tignan"/>
+					<Item menuId="view" name = "&amp;Tingnan"/>
 					<Item menuId="encoding" name = "A&amp;nyo"/>
 					<Item menuId="language" name = "&amp;Wika"/>
 					<Item menuId="settings" name = "Ka&amp;lagayan"/>
